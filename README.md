@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @VikitorChidi
-- 👀 I’m interested in software and cloud engineering
-- 🌱 I’m currently learning about cloud computing
-- 💞️ I’m looking to collaborate on ...
+- https://golden-advantage-7b8.notion.site/Victor-0646bd4e779d47febbfdfce9d46d9a16
 - 📫 How to reach me ... linkedin.com/in/victor-chidi-b14b90177 
 
 <!---
