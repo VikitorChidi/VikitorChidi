@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VikitorChidi
+- 👋 Hi, I’m Victor Chidi
 - https://golden-advantage-7b8.notion.site/Victor-0646bd4e779d47febbfdfce9d46d9a16
 - 📫 How to reach me ... linkedin.com/in/victor-chidi-b14b90177 
 
